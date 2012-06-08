@@ -1,5 +1,7 @@
 " John Ryan's VIMrc
 
+call pathogen#infect()
+
 syntax on
 
 set wrap
