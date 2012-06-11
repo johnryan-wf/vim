@@ -20,8 +20,8 @@ let mapleader = ","
 
 " Open nerdtree when vim starts, but only after all initialization
 " is finished.
-"autocmd VimEnter * NERDTree
-"autocmd VimEnter * wincmd p
+autocmd VimEnter * NERDTree
+autocmd VimEnter * wincmd p
 
 " I hate beeping
 set noerrorbells
