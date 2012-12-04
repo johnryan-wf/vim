@@ -4,7 +4,7 @@ call pathogen#infect()
 
 filetype plugin on
 syntax on
-colorscheme pyte
+colorscheme molokai " use pyte for white bg
 set tabstop=2
 set expandtab
 set wrap
