@@ -4,8 +4,8 @@ call pathogen#infect()
 
 filetype plugin on
 syntax on
-" colorscheme molokai " use pyte for white bg
-colorscheme zenburn
+colorscheme molokai " use pyte for white bg
+" colorscheme zenburn
 " colorscheme aiseered " for non-256 terminals
 
 set tabstop=2
