@@ -13,3 +13,9 @@
 [submodule "bundle/markdown"]
 	path = bundle/markdown
 	url = https://github.com/tpope/vim-markdown.git
+[submodule "vim-actionscript"]
+	path = vim-actionscript
+	url = https://github.com/jeroenbourgois/vim-actionscript.git
+[submodule "bundle/vim-actionscript"]
+	path = bundle/vim-actionscript
+	url = https://github.com/jeroenbourgois/vim-actionscript.git
