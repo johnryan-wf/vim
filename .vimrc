@@ -2,7 +2,7 @@
 
 call pathogen#infect()
 
-filetype plugin on
+filetype off " vundle
 syntax on
 colorscheme molokai " use pyte for white bg
 " colorscheme zenburn
@@ -23,3 +23,4 @@ set novisualbell
 " golang
 " set rtp+=$GOROOT/misc/vim
 
+filetype plugin indent on " used to be just plugin on 
